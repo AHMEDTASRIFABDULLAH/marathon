@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&display=swap");
+
+.active {
+  color: #f99542;
+  font-weight: 800;
+}
+.title_font {
+  font-family: "Playwrite MX Guides", serif;
+}
+.akronim-regular {
+  font-family: "Akronim", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  font-family: "Manrope", serif;
+  scroll-behavior: smooth;
+}
+.racing {
+  font-family: "Racing Sans One", serif;
+}
